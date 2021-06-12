@@ -1,2 +1,7 @@
-# Add here what you want
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# phpstorm
 .idea
