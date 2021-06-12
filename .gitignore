@@ -1,7 +1,14 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# dependencies
-/node_modules
+# nodejs
+node_modules
+.DS_Store
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
 
 # phpstorm
 .idea
